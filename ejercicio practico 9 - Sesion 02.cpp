@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	int edad;
 	cout<<"Digite su edad [0-99]: "; cin>>edad;
-	while(edad<0 || edad>99){
+	whilcccdcse(edad<0 || edad>99){
 		cout<<"Esta edad no pertenece a ningun rango generacional.\nDigite nuevamente su edad [0-99]: "; cin>>edad;	
 	}
 	
