@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+	//mi crush es una abogada linda <3
 	int edad;
 	cout<<"Digite su edad [0-99]: "; cin>>edad;
 	while(edad<0 || edad>99){
